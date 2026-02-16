@@ -92,7 +92,7 @@ Interested in collaborating, contributing, or learning more about our work?
 
 - Open an issue in one of our repositories
 - Check out our [contribution guidelines](https://github.com/taoq-ai/ziran/blob/main/CONTRIBUTING.md)
-- Visit [taoq.ai/about](https://taoq.ai/about) for more information
+- Visit [taoq.ai](https://taoq.ai) for more information
 
 ---
 
