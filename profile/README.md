@@ -5,7 +5,7 @@
   █  █▀█ █▄█ ▀▀█   █▀█ █   █▄▄ █▀█ █▄█ ▄█
 ```
 
-Open-source AI security and applied research.
+Open-source AI, Cybersecurity and Quantum applied research.
 
 <br/>
 
